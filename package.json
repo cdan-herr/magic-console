@@ -1,0 +1,24 @@
+{
+  "name": "com.lunar-magic.magic-console",
+  "version": "0.1.0",
+  "displayName": "Magic Console",
+  "description": "...",
+  "unity": "2020.3",
+  "keywords": [],
+  "author": {
+    "name": "Carlos Daniel Herrera Jimenez",
+    "email": "cdan.herr@gmail.com"
+  },
+  "samples": [
+    {
+      "displayName": "Examples",
+      "description": "...",
+      "path": "Samples~/Examples"
+    }
+  ],
+  "dependencies": {
+    "com.unity.inputsystem": "1.0.2",
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "type": "tool"
+}
